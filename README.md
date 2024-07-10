@@ -34,7 +34,7 @@ Applies the selected month from the dropdown (above the table) to fetch data fro
 Enjoy using the product transaction management system!
 
 #Backend 
-Backend Project
+
 
 This project aims to implement a backend system to manage and analyze product transactions. The backend interacts with a third-party API to fetch product transaction data and provides various APIs for listing transactions, generating statistics, and creating charts based on the fetched data.
 
